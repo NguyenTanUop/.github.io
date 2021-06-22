@@ -1,5 +1,5 @@
-a{
-	border: none;
+.quaytay {
+											   border: none;
 											   color: white;
 											   padding: 15px 32px;
 											   text-align: center;
@@ -9,8 +9,8 @@ a{
 											   margin: 4px 2px;
 }
 
-img{
-  width: 100%;
-  max-width: 640px;
-  height: auto;
+.responsive {
+  											   width: 100%;
+                                                                                           max-width: 640px;
+                                                                                           height: auto;
 }
